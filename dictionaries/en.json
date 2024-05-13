@@ -1,0 +1,150 @@
+{
+    "navbar": {
+        "links": [
+          { "name": "Feature", "href": "#feature"  },
+          { "name": "About", "href": "#about"  },
+          { "name": "Benifit", "href": "#benifit"  },
+          { "name": "Testimonial", "href": "#testimonial"  }
+        ],
+        "buttonText": "Contact Us",
+        "buttonTextTwo": "Call Us 1900 123 654",
+        "logoText": "MetroMed"
+      },
+      "heroSection": {
+        "heading": "Your Trusted Partner in Health",
+        "subheading": "Welcome to our trusted medical hub. Your health is our priority. We help you achieve optimal wellness.",
+        "buttonText": "CONTACT NOW",
+        "buttonTextTwo": "Learn More"
+      },
+      "featureOne": {
+        "tag": "Feature",
+        "heading": "World-class Preventive, Prescriptive & Curative Medical Practices",
+        "buttonText": "CONTACT NOW",
+        "subText": "Explore our advanced medical services designed to enhance your health and well-being. Trust in our expertise for your medical needs"
+      },
+      "about": {
+        "tag": "About",
+        "heading": "Medical Excellence Expertise and Care brought together for you",
+        "buttonText": "LEARN MORE",
+        "subText": "Our dedicated team combines years of expertise with a compassionate approach to healthcare. We prioritize your well-being, offering personalized treatments and support every step of the way. Trust us to provide exceptional medical care tailored to your unique needs and concerns."
+      },
+      "mainFeature": {
+        "tag": "Main feature",
+        "heading": "Peak Wellness with Our Expertise and Personalized Care Approach",
+        "subText": "Experience comprehensive care designed to elevate your health journey. Our team combines expertise with personalized attention, ensuring your unique needs are met with compassion and precision.",
+        "buttonText": "BOOK AN APPOINTMENT"
+      },
+      "testimonial": {
+        "mainHeading": "Client Stories: Our Patients Share Their Experience",
+        "mainText": "Discover how our patients' lives have been transformed through compassionate care and expert medical guidance.",
+        "cardInfo": [
+          {
+            "name": "Emily",
+            "image":"/assets/images/testimonial-image.webp",
+            "status": "Patient",
+            "description": "Outstanding service from start to finish. Personalized care exceeded expectations. Trustworthy team dedicated to improving patients' well-being."
+          },
+          {
+            "name": "Michael",
+            "image":"/assets/images/testimonial-image.webp",
+            "status": "Patient",
+            "description": "Impressed by the expertise and compassion of the medical team. Efficient service, thorough explanations. Grateful for their dedication to patient care."
+          },
+          {
+            "name": "Sarah",
+            "image":"/assets/images/testimonial-image.webp",
+            "status": "Patient",
+            "description": "Top-notch medical care provided here. Doctors listened attentively, addressed concerns effectively. Grateful for the positive impact on my health journey."
+          },
+          {
+            "name": "David",
+            "image":"/assets/images/testimonial-image.webp",
+            "status": "Patient",
+            "description": "Highly satisfied with the level of care received. Staff went above and beyond to ensure comfort and recovery. Would recommend to others."
+          },
+          {
+            "name": "Matthew",
+            "image":"/assets/images/testimonial-image.webp",
+            "status": "Patient",
+            "description": "Exemplary medical center. Staff exhibited professionalism and empathy throughout the treatment process. Grateful for their dedication to patient well-being."
+          },
+          {
+            "name": "Jennifer",
+            "image":"/assets/images/testimonial-image.webp",
+            "status": "Patient",
+            "description": "Exceptional experience overall. From booking to follow-up, everything was seamless. Highly skilled team with genuine care for patients' needs."
+          }
+
+
+
+          
+
+          
+        ]
+
+
+      },
+      "footer": {
+        "contactHeading":"Contact",
+        "exploreHeading":"Explore",
+        "aboutHeading":"About US",
+        "servicesHeading":"Services",
+
+
+        "endLinks": [
+          {"name": "Privacy Policy", "href": "#"},
+          {"name": "Terms of Service", "href": "#"},
+          {"name": "Cookies Settings", "href": "#"}
+
+          
+          
+                 
+        ],
+          "exploreLinks": [
+            {"name": "Care", "href": "#"},
+            {"name": "Heal", "href": "#"},
+            {"name": "Learn", "href": "#"},
+            {"name": "Connect", "href": "#"},
+            {"name": "Support", "href": "#"}
+
+          ],
+          
+          "serviceLinks": [
+            {"name": "Treatment", "href": "#"},
+            {"name": "Therapy", "href": "#"},
+            {"name": "Consult", "href": "#"},
+            {"name": "Care", "href": "#"},
+            {"name": "Support", "href": "#"}
+
+          ],
+          "topLinks": [
+            {"name": "+44 736-085-6434", "href": "https://www.newweborder.co"},
+            {"name": "contact@newweborder.co", "href": "https://www.newweborder.co"},
+            {"name": "Glassplace, Near", "href": "https://www.newweborder.co"},
+            {"name": "Cool Avenue,Boson", "href": "https://www.newweborder.co"}
+
+          ],
+          "aboutLinks": [
+            {"name": "Who we are", "href": "#"},
+            {"name": "Our Vision", "href": "#"},
+            {"name": "OPD", "href": "#"},
+            {"name": "Surgery", "href": "#"},
+            {"name": "Consultaion", "href": "#"}
+
+          ],
+
+          "SocialMediaLinks": [
+            {"name": "facebook", "href": "https://www.facebook.com/NewWebOrder1"},
+            {"name": "instagram", "href": "https://www.instagram.com/newweborderltd/?igshid=NTc4MTIwNjQ2YQ%3D%3D"},
+            {"name": "linkedin", "href": "https://www.linkedin.com/company/newweborder"}
+          ]
+          
+
+
+
+
+        
+      }
+
+
+}
